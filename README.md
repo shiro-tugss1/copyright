@@ -20,3 +20,4 @@ All content, code, text, images, documents, and other materials included in this
 This copyright covers all versions published on GitHub, as well as any future additions or updates to the project. Any use, reproduction, modification, or distribution of these materials requires **explicit written permission from the copyright holder**.
 
 This copyright is protected under the copyright laws of Mongolia and international copyright treaties. Any violation of these terms will be considered an infringement of the author's rights.
+youra2k
